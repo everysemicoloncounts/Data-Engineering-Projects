@@ -30,46 +30,12 @@ Exploring the data through the Data Catalog in your AWS account
 When the CloudFormation stack shows a status of CREATE_COMPLETE, access the Glue Data Catalog to see the tables that the template created. You should see the following tables:
 
     Global Coronavirus (COVID-19) Data – Tracks confirmed COVID-19 cases in provinces, states, and countries across the world with a breakdown to the county level in the US.
-
- 
-Table Name 	Description 	Source 	Provider
-enigma_jhu 	Confirmed COVID-19 cases 	Johns Hopkins 	Enigma
-
- 
-
     Coronavirus (COVID-19) Data in the United States – Tracks confirmed cases and deaths in the US by state and county.
-
- 
-Table Name 	Description 	Source 	Provider
-nytimes_states 	Data on COVID-19 cases at US state level 	NY Times 	Rearc
-nytimes_counties 	Data on COVID-19 cases at US county level
-
- 
-
     Coronavirus Disease (COVID-19) Testing Data – Tracks the number of people tested, pending tests, and positive and negative tests for COVID-19.
-
- 
-Table Name 	Description 	Source 	Provider
-covid_testing_states_daily 	USA total test daily trend by state 	COVID Tracking Project 	Rearc
-covid_testing_us_daily 	USA total test daily trend
-covid_testing_us_total 	USA total tests
-
- 
-
     USA Hospital Beds – COVID-19 – Data on hospital beds and their utilization in the US.
-
- 
-Table Name 	Description 	Source 	Provider
-hospital_beds 	Hospital beds and their utilization in the US 	Definitive Healthcare 	Rearc
-
-
-
     Lookup tables to support visualizations.
-
- 
-Table Name 	Description
-country_codes 	Lookup table for country codes
-county_populations 	Lookup table for the population for each county based on recent census data
-us_state_abbreviations 	Lookup table for US state abbreviations
+        country_codes -- Lookup table for country codes
+        country_populations -- Lookup table for the population for each county based on recent census data
+        us_state_abbreviations -- Lookup table for US state abbreviations
 
 In addition, you can see descriptions of the columns in these tables. For example, the following screenshot shows the metadata of the table containing COVID-19 cases from Johns Hopkins.
