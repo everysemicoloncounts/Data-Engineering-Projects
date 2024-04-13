@@ -1,0 +1,12 @@
+path,name,size,modificationTime
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/DateTimeTable.csv/,DateTimeTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/DropOffTable.csv/,DropOffTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/FactTable.csv/,FactTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/PassengerTable.csv/,PassengerTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/PaymentTable.csv/,PaymentTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/PickUpTable.csv/,PickUpTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/RateCodeTable.csv/,RateCodeTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/TripDistanceTable.csv/,TripDistanceTable.csv/,0,0
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/cab_data.csv,cab_data.csv,15824375,1712315110000
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/uber_data-1.csv,uber_data-1.csv,15824375,1711556397000
+dbfs:/FileStore/shared_uploads/gouravpratap.202cd006@nitk.edu.in/uber_data.csv,uber_data.csv,15824375,1711468870000
